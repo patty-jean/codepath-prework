@@ -52,7 +52,7 @@ The first three are a playthrough of all 8 rounds.  This demonstrates both hitti
 ![Part 4 of playthrough](https://cdn.glitch.global/22e0e08b-767b-40e4-9bb5-a77b49d652eb/part%204.gif?v=1648698231584)
 
 This one is losing the game.
-![Losing the game](https://cdn.glitch.global/22e0e08b-767b-40e4-9bb5-a77b49d652eb/lose.gif?v=1648698233520)
+![Losing the game](https://cdn.glitch.global/22e0e08b-767b-40e4-9bb5-a77b49d652eb/lose.gif?v=1648699000447)
 
 This demonstrates the use of the start and stop buttons.
 ![Using the start and stop button](https://cdn.glitch.global/22e0e08b-767b-40e4-9bb5-a77b49d652eb/start%20stop.gif?v=1648698234858)
