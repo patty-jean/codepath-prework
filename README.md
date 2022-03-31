@@ -133,6 +133,12 @@ I noticed that when this website is played on a browser with certain extensions
 (in my case, it was the Malwarebytes extension), the pictures and audio don't work.
 So if you for some reason have that trouble that should be why!  I would also like
 to note that I created all the images but I got the instruments sounds from videos.
+Ocarina: https://www.youtube.com/watch?v=Kkd1WuJrR0c
+Banjo: https://www.youtube.com/watch?v=bHi34KrX3Vg
+Didgeridoo: https://www.youtube.com/watch?v=kuPwSMczF0s
+Snare drum: https://www.youtube.com/watch?v=6qEQ4RXywrM
+Marimba: https://www.youtube.com/watch?v=PcV2oEl3rZk
+Lyre: https://www.youtube.com/watch?v=tuXio4MqyGQ
 
 
 ## Interview Recording URL Link
