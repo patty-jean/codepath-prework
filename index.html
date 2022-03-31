@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" href="https://glitch.com/favicon.ico" />
+    
+    <audio src="https://cdn.glitch.global/22e0e08b-767b-40e4-9bb5-a77b49d652eb/didgeridoo.mp3?v=1648181981971" id="i1"></audio>
+    <audio src="https://cdn.glitch.global/22e0e08b-767b-40e4-9bb5-a77b49d652eb/ocarina.mp3?v=1648233841371" id="i2"></audio>
+    <audio src="https://cdn.glitch.global/22e0e08b-767b-40e4-9bb5-a77b49d652eb/banjo.mp3?v=1648233918482" id="i3"></audio>
+    <audio src="https://cdn.glitch.global/22e0e08b-767b-40e4-9bb5-a77b49d652eb/lyre.mp3?v=1648182867693" id="i4"></audio>
+    <audio src="https://cdn.glitch.global/22e0e08b-767b-40e4-9bb5-a77b49d652eb/marimba.mp3?v=1648233201299" id="i5"></audio>
+    <audio src="https://cdn.glitch.global/22e0e08b-767b-40e4-9bb5-a77b49d652eb/snare.mp3?v=1648181999349" id="i6"></audio>
+    
+    
+    <title>Hello world!</title>
+
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css" />
+
+    <!-- import the webpage's javascript file -->
+    <script src="/script.js" defer></script>
+  </head>
+  
+  <body>
+    <!-- this is the start of content -->
+    <h1>
+      Marvelous Multichromatic Musical Memory Match
+    </h1>
+    
+    
+      
+    <p>
+      <div class="band">
+        <img src="https://cdn.glitch.global/22e0e08b-767b-40e4-9bb5-a77b49d652eb/bandbright.png?v=1648665440060" width="197px" height="112px"> 
+      </div>
+        
+    
+      Welcome to the Marvelous Multichromatic Memory Match! The rules are simple:
+      The buttons will blink and play a sound to you and you have to play
+      the buttons back in the same order in which they were played to you.
+      You can either click then with your mouse or tap the 
+      number key on your keyboard corresponding
+      to the number on the button.<br>  
+      <br>Let's get groovy!
+    </p>
+    
+    <button id="startBtn" onclick="startGame()">Groove</button>
+    <button id="stopBtn" class="hidden" onclick = "stopGame()">Stop</button>
+    <br><br>
+    <div id="gameButtonArea">
+      <button id="button1" onclick="guess(1)" onmousedown="playNote(1)">1</button>
+      <button id="button2" onclick="guess(2)" onmousedown="playNote(2)">2</button>
+      <button id="button3" onclick="guess(3)" onmousedown="playNote(3)">3</button>
+      <button id="button4" onclick="guess(4)" onmousedown="playNote(4)">4</button>
+      <button id="button5" onclick="guess(5)" onmousedown="playNote(5)">5</button>
+      <button id="button6" onclick="guess(6)" onmousedown="playNote(6)">6</button>
+    </div>
+
+    
+  </body>
+</html>
