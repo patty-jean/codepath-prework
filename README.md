@@ -52,7 +52,7 @@ The first three are a playthrough of all 8 rounds.  This demonstrates both hitti
 ![Part 4 of playthrough](https://cdn.glitch.global/22e0e08b-767b-40e4-9bb5-a77b49d652eb/part%204.gif?v=1648698231584)
 
 This one is losing the game.
-![Losing the game](https://cdn.glitch.global/22e0e08b-767b-40e4-9bb5-a77b49d652eb/lose.gif?v=1648699000447)
+![Losing the game](https://cdn.glitch.global/22e0e08b-767b-40e4-9bb5-a77b49d652eb/lose.gif?v=1648699157768)
 
 This demonstrates the use of the start and stop buttons.
 ![Using the start and stop button](https://cdn.glitch.global/22e0e08b-767b-40e4-9bb5-a77b49d652eb/start%20stop.gif?v=1648698234858)
@@ -128,10 +128,17 @@ Additionally, the website is not optimal for use on mobile visually, so
 I would love to spend some time improving that.
 
 
-## Additional note:
+## Additional Notes:
 I noticed that when this website is played on a browser with certain extensions
 (in my case, it was the Malwarebytes extension), the pictures and audio don't work.
-So if you for some reason have that trouble that should be why!
+So if you for some reason have that trouble that should be why!  I would also like
+to note that I created all the images but I got the instruments sounds from videos.
+Ocarina: https://www.youtube.com/watch?v=Kkd1WuJrR0c
+Banjo: https://www.youtube.com/watch?v=bHi34KrX3Vg
+Didgeridoo: https://www.youtube.com/watch?v=kuPwSMczF0s
+Snare drum: https://www.youtube.com/watch?v=6qEQ4RXywrM
+Marimba: https://www.youtube.com/watch?v=PcV2oEl3rZk
+Lyre: https://www.youtube.com/watch?v=tuXio4MqyGQ
 
 
 ## Interview Recording URL Link
