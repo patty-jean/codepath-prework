@@ -34,6 +34,7 @@ function startGame(){
 
 function stopGame(){
   //change game variables
+  console.log("game stopped");
   gamePlaying = false;
 
   
@@ -85,11 +86,13 @@ function playClueSequence(){
 
 
 function loseGame(){
+  console.log("user lost the game");
   stopGame();
   alert("That was strike 3.  Game Over. You lost. :'(");
 }
 
 function winGame(){
+  console.log("user won the game");
   stopGame();
   alert("Game Over. You won!! :D");
 }
@@ -132,6 +135,7 @@ function guess(btn){
       loseGame();
     }
     else{
+      console.log("user made incorrect guess");
       alert("Wrong guess, that was strike " + err + ".  Try again! ^_^");
       playClueSequence()
     }
