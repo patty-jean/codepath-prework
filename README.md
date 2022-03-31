@@ -4,7 +4,7 @@
 
 Submitted by: **Patricia Dzwill**
 
-Time spent: **18** hours spent in total
+Time spent: **20** hours spent in total
 
 Link to project: (https://glitch.com/edit/#!/meadow-stone-salesman)
 
