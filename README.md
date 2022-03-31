@@ -128,10 +128,11 @@ Additionally, the website is not optimal for use on mobile visually, so
 I would love to spend some time improving that.
 
 
-## Additional note:
+## Additional Notes:
 I noticed that when this website is played on a browser with certain extensions
 (in my case, it was the Malwarebytes extension), the pictures and audio don't work.
-So if you for some reason have that trouble that should be why!
+So if you for some reason have that trouble that should be why!  I would also like
+to note that I created all the images but I got the instruments sounds from videos.
 
 
 ## Interview Recording URL Link
