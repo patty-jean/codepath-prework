@@ -1,0 +1,199 @@
+/* a minimalist set of CSS resets */
+
+/* default to border-box */
+html {
+  box-sizing: border-box;
+  font-size: 20px;
+  background-image: linear-gradient(to bottom right, midnightblue, palevioletred);
+  min-height:100%;
+  min-width: 100%;
+  /*image-rendering: pixelated;*/
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+/* adjust typography defaults */
+body {
+  text-align: center;
+  margin: 2rem;
+  font-family: Helvetica, sans-serif;
+  line-height: 1.5;
+  text-shadow: 2px 4px 3px mediumvioletred;
+  
+  color: #e9daf0;
+}
+
+
+
+h1 {
+  font-family: Helvetica, verdana, arial, sans-serif;
+  color: #ff8f8f;
+  text-shadow: 3px 4px 5px mediumvioletred,
+              -3px 4px 5px darkviolet;
+  margin-bottom: -20px;
+
+}
+
+
+button {
+  font-family: Helvetica, verdana, arial, sans-serif;
+  font-size: 16px;
+  padding: 15px;
+  border-radius: 100px;
+  box-shadow: 3px 3px 5px mediumvioletred,
+              -1px 2px 5px darkviolet;
+  font-weight: bold;
+}
+
+#gameButtonArea > button {
+  width: 200px;
+  height: 200px;
+  margin: 4px;
+  border-radius: 60px;
+  
+}
+
+
+#startBtn {
+    width: 200px;
+    background: linear-gradient(to bottom right, #c29cdb, #e9daf0);
+    border: none;
+    color: #563873;
+}
+
+#startBtn:active {
+    width: 200px;
+    background: linear-gradient(to bottom right, #cf6b77, #F4B5C0);
+    border: none;
+    color: #563873;
+}
+
+#stopBtn {
+    width: 200px;
+    background: linear-gradient(to bottom right, #de5b61, #ff8f8f);
+    border: none;
+    color: #563873;
+}
+
+#stopBtn:active {
+    width: 200px;
+    background: linear-gradient(to bottom right, #cf6b77, #F4B5C0);
+    border: none;
+    color: #563873;
+}
+
+
+#button1 {
+    background: linear-gradient(to bottom right, limegreen, lightgreen);
+    border: none;
+    color: #563873;
+}
+
+#button1:active, #button1.lit {
+    background: green;
+    font-size: 0;
+    background: url("https://cdn.glitch.global/22e0e08b-767b-40e4-9bb5-a77b49d652eb/digeridoo.png?v=1648177846172");
+    background-position:center;
+    background-repeat:no-repeat;
+    border: none;
+    color: #563873;
+}
+
+
+#button2 {
+    background: linear-gradient(to bottom right, deepskyblue, lightblue);
+    border: none;
+    color: #563873;
+}
+
+#button2:active, #button2.lit {
+    background:blue;
+    font-size: 0;
+    background: url("https://cdn.glitch.global/22e0e08b-767b-40e4-9bb5-a77b49d652eb/ocarina.png?v=1648147351954");
+    background-position:center;
+    background-repeat:no-repeat;
+    border: none;
+    color: #563873;
+}
+
+
+#button3 {
+    background: linear-gradient(to bottom right, lightcoral, pink);
+    border: none;
+    color: #563873;
+}
+
+#button3:active, #button3.lit {
+    background:red;
+    font-size: 0;
+    background: url("https://cdn.glitch.global/22e0e08b-767b-40e4-9bb5-a77b49d652eb/banjo.png?v=1648179118214");
+    background-position:center;
+    background-repeat:no-repeat;
+    border: none;
+    color: #563873;
+}
+
+
+#button4 {
+    background: linear-gradient(to bottom right, yellow, lightyellow);
+    border: none;
+    color: #563873;
+}
+
+#button4:active, #button4.lit {
+    background:yellow;
+    font-size: 0;
+    background: url("https://cdn.glitch.global/22e0e08b-767b-40e4-9bb5-a77b49d652eb/yellow%20lyreL.png?v=1648146790677");
+    background-position:center;
+    background-repeat:no-repeat;
+    border: none;
+    color: #563873;
+}
+
+
+#button5 {
+    background: linear-gradient(to bottom right, SandyBrown, navajowhite);
+    border: none;
+    color: #563873;
+}
+
+#button5:active, #button5.lit {
+    background:orange;
+    font-size: 0;
+    background: url("https://cdn.glitch.global/22e0e08b-767b-40e4-9bb5-a77b49d652eb/marimba.png?v=1648177664136");
+    background-position:center;
+    background-repeat:no-repeat;
+    border: none;
+    color: #563873;
+}
+
+
+#button6 {
+    background: linear-gradient(to bottom right, mediumpurple, lavender);
+    border: none;
+    color: #563873;
+}
+
+#button6:active, #button6.lit {
+    background:violet;
+    font-size: 0;
+    background: url("https://cdn.glitch.global/22e0e08b-767b-40e4-9bb5-a77b49d652eb/snare%20big.png?v=1648147196648");
+    background-position:center;
+    background-repeat:no-repeat;
+    border: none;
+    color: #563873;
+}
+
+
+.hidden {
+  display: none;
+}
+
+/* images and videos max out at full width */
+img,
+video {
+  height: auto;
+  max-width: 100%;
+}
