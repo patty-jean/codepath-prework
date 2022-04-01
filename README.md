@@ -123,8 +123,7 @@ managed to get a clock that would tick, but it was very glitchy and I felt my ti
 would be better spent on other parts of the pre-work rather than fixing this, but I 
 would love to get that up and running if I had more time.  Lastly, I would love to 
 make the website more graphically pleasing by making the picture under the title sharper
-and by creating and adding more images to make it more creative overall.  
-Additionally, the website is not optimal for use on mobile visually, so 
+and by creating and adding more images to make it more creative overall.  Additionally, the website is not optimal for use on mobile visually, so 
 I would love to spend some time improving that.
 
 
